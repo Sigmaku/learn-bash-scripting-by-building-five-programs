@@ -48,3 +48,4 @@ cd ..
 ls --color=auto
 cd project/
 ./questionnaire.sh
+ls --color=auto -l
