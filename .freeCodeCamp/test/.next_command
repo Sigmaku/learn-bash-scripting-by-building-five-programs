@@ -72,3 +72,4 @@ echo
 ./questionnaire.sh
 echo $QUESTION2
 ./questionnaire.sh
+./questionnaire.sh
