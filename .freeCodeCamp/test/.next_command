@@ -49,3 +49,4 @@ ls --color=auto
 cd project/
 ./questionnaire.sh
 ls --color=auto -l
+chmod +x questionnaire.sh
