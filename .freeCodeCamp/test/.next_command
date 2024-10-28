@@ -57,3 +57,4 @@ ls --color=auto -l
 which bash
 shebang
 sh questionnaire.sh
+./questionnaire.sh
