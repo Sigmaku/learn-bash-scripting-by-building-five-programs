@@ -75,3 +75,4 @@ echo $QUESTION2
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
