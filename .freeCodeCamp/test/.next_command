@@ -77,3 +77,4 @@ echo $QUESTION2
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
