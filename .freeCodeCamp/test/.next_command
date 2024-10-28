@@ -58,3 +58,14 @@ which bash
 shebang
 sh questionnaire.sh
 ./questionnaire.sh
+echo hello danar
+echo hello NAME
+echo
+echo
+echo
+echo hello
+echo hello NAME
+echo hello NAME
+echo hello $NAME
+./questionnaire.sh
+echo
