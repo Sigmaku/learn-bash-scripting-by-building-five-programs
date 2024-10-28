@@ -46,3 +46,5 @@ ls --color=auto
 pwd
 cd ..
 ls --color=auto
+cd project/
+./questionnaire.sh
